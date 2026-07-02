@@ -62,8 +62,8 @@ El sistema se organiza en tres capas:
 
 Las instrucciones detalladas de instalación (conexión de hardware, carga de firmware y primer encendido) y de uso (navegación de la interfaz, control manual y configuración de parámetros) están disponibles en:
 
-- [Manual de Instalación](./docs/Manual_Instalacion_FungiBox.docx)
-- [Manual de Usuario](./docs/Manual_Usuario_FungiBox.docx)
+- [Manual de Instalación](./Manual_Instalacion_FungiBox.docx)
+- [Manual de Usuario](./Manual_Usuario_FungiBox.docx)
 
 ## Equipo
 
